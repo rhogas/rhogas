@@ -1,8 +1,8 @@
 # 🌟 Hey, nice to see you
 
-**I am Roberto, a Mathematics and Computer Science student at UC3M.
+**I am Roberto, a Mathematics and Computer Science student at UC3M.**
 
-As a good computer scientist, 0 ∈ ℕ**
+**As a good computer scientist, _0 ∈ ℕ_**
 <!--
 **rhogas/rhogas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
