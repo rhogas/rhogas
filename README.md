@@ -2,7 +2,7 @@
 
 **Maths and Computer Science student at uc3m. _0 ∈ ℕ_, as any computer scientist would say**
 
-[![readme Quotes](https://quotes-github-readme.vercel.app/api?quote=You+will+win+because+you+have+plenty+of+brute+force%2C+but+you+will+not+convince%2C+because+to+convince+you+have+to+persuade.)](https://github.com/piyushsuthar/github-readme-quotes)
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?quote=You+may+win+because+you+have+an+excess+of+brute+force%2C+but+you+will+not+convince%2C+because+to+convince%2C+one+must+persuade.&author=Miguel+de+Unamuno&type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <!--
 **rhogas/rhogas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
