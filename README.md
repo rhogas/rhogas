@@ -1,6 +1,8 @@
 # 🌟 Hey there, I am Roberto!
 
-**maths and cs student at uc3m. _0 ∈ ℕ_, as any computer scientist would say**
+**Maths and Computer Science student at uc3m. _0 ∈ ℕ_, as any computer scientist would say**
+
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <!--
 **rhogas/rhogas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
