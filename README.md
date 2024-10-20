@@ -19,5 +19,5 @@ Lover of Mathematics and Computer Science at UC3M.  **0 ∈  ℕ, _obviously._**
 
 ## 💭 My source of inspiration
 
-[![readme Quotes](https://quotes-github-readme.vercel.app/api?quote=You+may+win+because+you+have+an+excess+of+brute+force%2C+but+you+will+not+convince%2C+because+to+convince%2C+one+must+persuade.&author=Miguel+de+Unamuno&type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?quote=You+may+win+because+you+have+more+than+enough+brute+force%2C+but+you+will+not+convince%2C+for+to+convince%2C+one+must+persuade.&author=Miguel+de+Unamuno&type=horizontal)]
 
