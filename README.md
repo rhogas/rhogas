@@ -7,7 +7,7 @@ Lover of Mathematics and Computer Science at UC3M.  **0 ∈  ℕ, _obviously._**
 - 💻 &nbsp;Focusing on website optimization
 - 📤 &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/roberto-h-b77b46290/)**
 
-## Languages and Tools
+## 💾 Languages and Tools
 
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
@@ -17,6 +17,7 @@ Lover of Mathematics and Computer Science at UC3M.  **0 ∈  ℕ, _obviously._**
 [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
 
+# ☄️ My source of inspiration
 
 [![readme Quotes](https://quotes-github-readme.vercel.app/api?quote=You+may+win+because+you+have+an+excess+of+brute+force%2C+but+you+will+not+convince%2C+because+to+convince%2C+one+must+persuade.&author=Miguel+de+Unamuno&type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
