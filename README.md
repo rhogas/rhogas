@@ -1,6 +1,6 @@
 # 🌟 Hey there, I'm Roberto!
 
-Lover of Mathematics and Computer Science at UC3M.  **0 ∈  ℕ, _obviously._**
+Mathematics and Computer Science student at UC3M.  **0 ∈  ℕ, _obviously._**
 
 - 💼 &nbsp;Software Engineer at **[SAETA UC3M](https://saetauc3m.es/)**
 - 🙇 &nbsp;Machine Learning enthusiast
