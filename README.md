@@ -7,6 +7,8 @@ Mathematics and Computer Science student at UC3M.  **0 ∈  ℕ, _obviously._**
 - 💻 &nbsp;Focused on website optimization
 - 📤 &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/roberto-h-b77b46290/)**
 
+<hr>
+
 ## 💾 Languages and Tools
 
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
@@ -16,6 +18,8 @@ Mathematics and Computer Science student at UC3M.  **0 ∈  ℕ, _obviously._**
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
 [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
+
+<hr>
 
 ## 💭 My source of inspiration
 
