@@ -5,7 +5,7 @@ Mathematics and Computer Science student at UC3M.  **0 ∈  ℕ, _obviously._**
 - 💼 &nbsp;Software Engineer at **[SAETA UC3M](https://saetauc3m.es/)**
 - 🙇 &nbsp;Machine Learning enthusiast
 - 💻 &nbsp;Focused on website optimization
-- 📤 &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/roberto-h-b77b46290/)**
+- 📤 &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/robertohogas/)**
 
 <hr>
 
