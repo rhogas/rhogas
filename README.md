@@ -3,7 +3,7 @@
 Lover of Mathematics and Computer Science at UC3M.  **0 ∈  ℕ, _obviously._**
 
 - 💼 &nbsp;Software Engineer at **[SAETA UC3M](https://saetauc3m.es/)**
-- 🙇 &nbsp;**Machine Learning** enthusiast
+- 🙇 &nbsp;Machine Learning enthusiast
 - 💻 &nbsp;Focusing on website optimization
 - 📤 &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/roberto-h-b77b46290/)**
 
