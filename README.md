@@ -1,6 +1,6 @@
 # 🌟 Hey there, I'm Roberto!
 
-Mathematics and Computer Science student at UC3M. Currently on an Exchange program at University of Florida. **0 ∈  ℕ, _obviously._**
+Mathematics and Computer Science student at UC3M. Currently on an Exchange program at the University of Florida. **0 ∈  ℕ, _obviously._**
 
 - 💼 &nbsp;Software Engineer at **[SAETA UC3M](https://saetauc3m.es/)**
 - 🙇 &nbsp;Machine Learning enthusiast
